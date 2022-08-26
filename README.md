@@ -1,5 +1,5 @@
 # hello-world
 
-## Welcome to my awesom repo
+## Welcome to my awesome repo
 
 This is a test repo for **Studio III**
